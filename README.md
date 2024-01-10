@@ -41,3 +41,6 @@ The Weather App uses the OpenWeatherMap API to fetch real-time weather data. To 
 
 ## Credits
 Boxicons: Boxicons - A simple vector icon library.
+
+## License
+This project is licensed under the MIT License.
